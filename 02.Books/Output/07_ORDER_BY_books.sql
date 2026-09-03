@@ -11,6 +11,6 @@ Murder on the Orient Express              -- 299.00
 Animal Farm                              -- 250.00
 
 -- Ordered alphabetically:
-1984, Animal Farm, Harry Potter and the Philosopher's Stone,
-Murder on the Orient Express, Norwegian Wood, Things Fall Apart
+Animal Farm, Harry Potter and the Philosopher's Stone,
+Murder on the Orient Express, Norwegian Wood, Things Fall Apart,1984
 */
